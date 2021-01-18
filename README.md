@@ -15,9 +15,8 @@
   in italian.
   
 ---------------------------------------
-| Made by:                            |
-| Giuseppe Carrino, Umberto Carlucci, |
-| Andrea Loretti.                     |
-|                                     |
-| Year: 2019/2020                     |
+Made by:                            
+Giuseppe Carrino, Umberto Carlucci, 
+Andrea Loretti.                     
+Year: 2019/2020                     
 ---------------------------------------  
