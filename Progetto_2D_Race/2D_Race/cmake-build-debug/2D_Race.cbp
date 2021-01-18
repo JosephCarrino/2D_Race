@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2D_Race"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2D_Race">
+				<Option output="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/2D_Race.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 2D_Race"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2D_Race/fast">
+				<Option output="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/2D_Race.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 2D_Race/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/DoStrada.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/DoStrada.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Fuel.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Fuel.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Funzioni.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Funzioni.h">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Gas.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Gas.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Liste.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Liste.h">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Macchina.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Macchina.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Menu.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Menu.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo1.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo1.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo2.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo2.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo3.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Ostacolo3.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Pausa.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Pausa.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Score.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Score.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Title.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/Title.hpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/main.cpp">
+			<Option target="2D_Race"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

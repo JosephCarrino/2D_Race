@@ -1,0 +1,3 @@
+C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/CMakeFiles/2D_Race.dir
+C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/Desktop/Progetto_2D_Race/2D_Race/cmake-build-debug/CMakeFiles/rebuild_cache.dir
